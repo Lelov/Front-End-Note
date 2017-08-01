@@ -7,6 +7,7 @@ if(obj.a == null){
 }
 ```
 其他一律用 `===`
+
 2. typeof 的结果
 `string`,`number`,`boolean`,`bull`,`object`,`function`,`symbol`
 
